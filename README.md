@@ -10,3 +10,5 @@ list all of wangyin's blog by simple keyword **yw**
 **query** blog
 
 ![yinwang](pic/yinwang-query.png)
+
+[TODO] query blog with **pinyin**
